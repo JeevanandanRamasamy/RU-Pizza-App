@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">RU Pizza</string>
+
+    <!--Menu Names-->
+    <string name="specialty">Specialty</string>
+    <string name="buildYourOwn">Build Your Own</string>
+    <string name="currentOrder">Current Order</string>
+    <string name="storeOrders">Store Orders</string>
+
+    <!-- Pizza Descriptions-->
+    <string name="toppings">Toppings: %s</string>
+    <string name="price">Price: $%.2f</string>
+    <string name="customize">CUSTOMIZE</string>
+
+    <!--Toppings-->
+    <string name="sausage">Sausage</string>
+    <string name="pepperoni">Pepperoni</string>
+    <string name="greenPepper">Green Pepper</string>
+    <string name="onion">Onion</string>
+    <string name="mushroom">Mushroom</string>
+    <string name="ham">Ham</string>
+    <string name="blackOlive">Black Olive</string>
+    <string name="beef">Beef</string>
+    <string name="shrimp">Shrimp</string>
+    <string name="squid">Squid</string>
+    <string name="crabMeats">Crab Meats</string>
+    <string name="pineapple">Pineapple</string>
+    <string name="chicken">Chicken</string>
+
+    <!--Pizza Types-->
+    <string name="buildYourOwnPizza">BuildYourOwn</string>
+    <string name="deluxePizza">Deluxe</string>
+    <string name="supremePizza">Supreme</string>
+    <string name="meatzzaPizza">Meatzza</string>
+    <string name="seafoodPizza">Seafood</string>
+    <string name="pepperoniPizza">Pepperoni</string>
+    <string name="veggiePizza">Veggie</string>
+    <string name="hawaiianPizza">Hawaiian</string>
+    <string name="chickenPizza">Chicken</string>
+    <string name="sausagePizza">Sausage</string>
+    <string name="pineapplePizza">Pineapple</string>
+
+    <!--Sauces-->
+    <string name="tomato">Tomato Sauce</string>
+    <string name="alfredo">Alfredo Sauce</string>
+
+    <!--Sizes-->
+    <string name="small">Small</string>
+    <string name="medium">Medium </string>
+    <string name="large">Large</string>
+    <string-array name="sizes">
+        <item>@string/small</item>
+        <item>@string/medium</item>
+        <item>@string/large</item>
+    </string-array>
+
+    <!--Extras Names-->
+    <string name="extraSauce">Extra Sauce</string>
+    <string name="extraCheese">Extra Cheese</string>
+
+    <!--Label Names-->
+    <string name="toppingsLabel">Toppings:</string>
+    <string name="saucesLabel">Sauce:</string>
+    <string name="sizesLabel">Size:</string>
+    <string name="orderNumber">Order Number:</string>
+    <string name="subtotal">Subtotal: $</string>
+    <string name="tax">Sales Tax: $</string>
+    <string name="total">Total: $</string>
+    <string name="priceLabel">Price: $</string>
+
+    <!--Button Names-->
+    <string name="addToOrder">ADD TO ORDER</string>
+    <string name="placeOrder">PLACE ORDER</string>
+    <string name="cancelOrder">CANCEL ORDER</string>
+</resources>
